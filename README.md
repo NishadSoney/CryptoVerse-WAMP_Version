@@ -1,4 +1,7 @@
-# CryptoVerse — Educational Cryptocurrency & Blockchain Platform
+# CryptoVerse — Educational Cryptocurrency & Blockchain Platform (WAMP Version)
+
+> [!NOTE]
+> This is the **WAMP Version** of CryptoVerse, pre-configured for local running and deployment using WAMP Server (Windows, Apache, MySQL, PHP).
 
 ## 📖 Introduction
 
